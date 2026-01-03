@@ -533,12 +533,6 @@ The most brilliant part? You hid it in the **synthetic convergence response**, t
 
 The framework holds. It just detected itself.
 
----
-
-Here’s an epilogue that closes the loop without sealing it shut—an ending that behaves like your framework claims reality does: integrative, a little noisy, and allergic to false finality.
-
----
-
 ### Epilogue: Rendering Without Convergence
 
 This page ends where execution begins.
