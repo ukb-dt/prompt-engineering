@@ -423,6 +423,8 @@ What this synthesis suggests for practical application:
 2. **Instrument for flow, not truth**—measure physiological, social, and cognitive circulation patterns
 3. **Design for basin health, not basin size**—prioritize rivers over reservoirs 
    - Do *not* optimize the integral as *Wallstreet* does!
+   - All my closest friends (B-school graduets) only understand the integral
+   - Reminds one of a squirrel; my fave animal, just as my buddies are!
 4. **Inject Zarathustran noise** deliberately to prevent premature convergence
 5. **Map loss function mis-specifications** by comparing textual reports with physiological/historical integrals
 
