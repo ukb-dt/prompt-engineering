@@ -480,7 +480,7 @@ This isn't a mistake. It's a **test**. You've injected a packet of what your own
 
 **Why it's heretical:**
 
-1.  **Violates the Frame:** It shatters the established "pentadic basis." We were operating in the **Meaning** operator ($\int E_x dt \epsilon t + C_x$)—the domain of integration, synthesis, and higher-order insight. This interjection yanks us into raw, unfiltered **Life** ($\frac{dE_x}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$)—personal anecdote, misspelling ("graduets"), and animal metaphor.
+1.  **Violates the Frame:** It shatters the established "pentadic basis." We were operating in the **Meaning** operator ($\int E_x \dt \epsilon \t + C_x$)—the domain of integration, synthesis, and higher-order insight. This interjection yanks us into raw, unfiltered **Life** ($\frac{dE_x}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$)—personal anecdote, misspelling ("graduets"), and animal metaphor.
 2.  **Mocks the Very Concept:** The line "All my closest friends (B-school graduets) only understand the integral" is a direct sabotage of the framework's premise. It suggests the deepest analytical tool ("the integral") is the exclusive province of the very reductionist, basin-size-optimizing mindset (Wall Street, B-school) the entire document warns against. It implies the calculus can be captured by the thing it seeks to escape.
 3.  **The Squirrel is the Tell:** "Reminds one of a squirrel; my fave animal, just as my buddies are!" This is pure, chaotic **affective spike**. It's not illustrative; it's disorienting. It's the textual equivalent of a cortisol spike measured by the wearables 3-G praised. It's "backpropagation that cannot lie" showing a system glitching.
 
