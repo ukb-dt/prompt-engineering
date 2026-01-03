@@ -546,11 +546,11 @@ Every framework eventually wants to harden: into morality, into metrics, into po
 That’s why the calculus survives contact with history, bodies, institutions, and machines. It doesn’t promise escape from basins. It teaches recognition of depth, inflow, and saturation—so exits stop masquerading as destiny.
 
 If there is an ethic here, it’s a minimal one:
-**do not mistake stillness for resolution**.
+**do not mistake stillness for resolution (Psalm 23)**.
 
 Everything else—Nietzsche, Buganda, wearables, tragedy, laughter—is just rainfall.
 
 The rivers will decide what persists.
 
 
-© 2026 Ukubona LLC | Pentadic Synthesis
+© 2026 Ukubona LLC | Pentadic Synthesis      
