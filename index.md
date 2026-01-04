@@ -17,9 +17,9 @@
 </script>
 {% endraw %}
 
-> *Truth ain't in books (Language)*         
-> *But in physiological (Life)*              
-> *Patterns & trajectories (Meaning).*                
+> *Truth ain't in books (Language/Socrates)*         
+> *Physiological flows are (Wearables/Heraclitus)*              
+> *Where it's at, as trajectories (Meaning/Nietzsche).*                
 > -- [High-Fidelity Flow](https://ukb-dt.github.io/biosketch-20260103/)
 
 This is a manifesto for "Post-Symbolic" computing. It argues that as long as we align AI to text (Language), we will remain trapped in "local minima" of ideology and hallucination. To reach the "Global Minimum" (Reality), we must align AI to energy—the flow of history, biology, and physics—which requires the "Pentadic" change of basis to perceive.
