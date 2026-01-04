@@ -17,10 +17,10 @@
 </script>
 {% endraw %}
 
-> *The future of "truth" is not in books (Language)*        
-> *But in the aggregation of physiological states (Life)*        
-> *Over time (Meaning).*               
-> -- High-Fidelity Flow 
+> *The future of "truth" is not in books (Language)*         
+> *But in the aggregation of physiological states (Life)*              
+> *Over time (Meaning).*                
+> -- [High-Fidelity Flow](https://ukb-dt.github.io/biosketch-20260103/)
 
 
 This is a manifesto for "Post-Symbolic" computing. It argues that as long as we align AI to text (Language), we will remain trapped in "local minima" of ideology and hallucination. To reach the "Global Minimum" (Reality), we must align AI to energy—the flow of history, biology, and physics—which requires the "Pentadic" change of basis to perceive.
