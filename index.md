@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-> *"Truth" ain't in books (Language)*         
+> *Truth ain't in books (Language)*         
 > *But in physiological (Life)*              
 > *Patterns & trajectories (Meaning).*                
 > -- [High-Fidelity Flow](https://ukb-dt.github.io/biosketch-20260103/)
