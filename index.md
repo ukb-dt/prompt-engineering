@@ -123,11 +123,11 @@ successive ways of conditioning, differentiating, perturbing, and integrating th
 
 When symbolic density obstructs orientation, reduce to invariants:
 
-- Language  
-- Science  
-- Art  
-- Life  
-- Meaning  
+- Language/Energy  
+- Science+Error/Data+Simulation  
+- Art/Power  
+- Life/Combinatorials  
+- Meaning/Work (PFC-Outsourced)  
 
 This reduction is used to prevent models from mistaking notation for insight.
 
